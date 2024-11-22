@@ -1,0 +1,44 @@
+name,calories_per_unit,proteins,fats,carbohydrates
+Apple,52,0.3,0.2,14
+Banana,89,1.1,0.3,23
+Orange,47,0.9,0.1,12
+Strawberries,32,0.7,0.3,8
+Blueberries,57,0.7,0.3,14
+Raspberries,52,1.2,0.7,12
+Blackberries,43,1.4,0.5,10
+Peach,59,1.4,0.4,14
+Plum,30,0.5,0.2,8
+Pear,57,0.4,0.1,15
+Grapes,69,0.6,0.4,18
+Watermelon,30,0.6,0.2,8
+Cantaloupe,34,0.8,0.2,8
+Honeydew,36,0.8,0.1,9
+Pineapple,50,0.5,0.1,13
+Kiwi,42,0.8,0.4,10
+Mango,60,0.8,0.4,15
+Avocado,160,2.0,15.0,9
+Tomato,18,0.9,0.2,4
+Cucumber,16,0.7,0.1,4
+Bell Pepper (Red),37,1.0,0.4,9
+Bell Pepper (Green),20,0.9,0.2,5
+Bell Pepper (Yellow),50,1.0,0.4,12
+Carrot,41,0.9,0.2,10
+Celery,6,0.3,0.1,1
+Lettuce (Iceberg),10,0.6,0.1,2
+Lettuce (Romaine),8,0.6,0.1,2
+Spinach,7,0.9,0.1,1
+Kale,49,4.3,0.9,10
+Broccoli,55,3.7,0.6,11
+Cauliflower,25,1.9,0.3,5
+Brussels Sprouts,38,3.4,0.3,8
+Zucchini,33,1.2,0.3,7
+Eggplant,25,1.0,0.2,6
+Asparagus,20,2.2,0.2,4
+Green Beans,31,1.8,0.1,7
+Peas,81,5.4,0.4,14
+Corn,86,3.2,1.2,19
+Potato,163,4.3,0.2,37
+Sweet Potato,86,1.6,0.1,20
+Pumpkin,26,1.0,0.1,6
+Butternut Squash,45,1.0,0.1,12
+Acorn Squash,56,1.5,0.1,15
